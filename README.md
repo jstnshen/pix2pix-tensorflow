@@ -1,6 +1,6 @@
 # pix2pix-tensorflow
 
-Based on [pix2pix](https://phillipi.github.io/pix2pix/) by Isola et al.
+Based on [pix2pix](https://phillipi.github.io/pix2pix/) by Isola et al. Extended for CMSC 740 final project at the University of Maryland - Spring 2019. Extension includes the shadow2pix.py network which slightly modifies the original pix2pix.py to process depth map as an additional input to the network.
 
 [Article about this implemention](https://affinelayer.com/pix2pix/)
 
